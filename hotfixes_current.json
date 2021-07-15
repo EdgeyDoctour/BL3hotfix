@@ -6125,13 +6125,6 @@
       "key": "SparkPatchEntry2143",
       "value": "(1,7,0,),/Game/PlayerCharacters/SirenBrawler/_Shared/_Design/Phasetrance/Actions/Slam/Action_Phasetrance_Slam_Base.Action_Phasetrance_Slam_Base_C,0,1,InnerDoSlamDamage,1,382,116:/Game/PlayerCharacters/_Shared/_Design/DamageSources/DamageSource_Skill_Phasetrance.DamageSource_Skill_Phasetrance_C,126:/Game/PlayerCharacters/_Shared/_Design/DamageSources/DamageSource_Skill_Phasetrance_Slam.DamageSource_Skill_Phasetrance_Slam_C"
     },
-    {
-      "key": "SparkPatchEntry2076",
-      "value": "(1,1,0,),/Game/PatchDLC/Raid1/GameData/Loot/ItemPools/ItemPool_TrialBossSaurian.ItemPool_TrialBossSaurian,BalancedItems,665,((InventoryBalanceData=/Game/PatchDLC/Raid1/Gear/ClassMods/BeastMaster/InvBalD_ClassMod_Beastmaster_CosmicStalker.InvBalD_ClassMod_Beastmaster_CosmicStalker,ResolvedInventoryBalanceData=InventoryBalanceData'\"/Game/PatchDLC/Raid1/Gear/ClassMods/BeastMaster/InvBalD_ClassMod_Beastmaster_CosmicStalker.InvBalD_ClassMod_Beastmaster_CosmicStalker\"'),(InventoryBalanceData=/Game/PatchDLC/Raid1/Gear/ClassMods/BeastMaster/InvBalD_ClassMod_Beastmaster_RedFang.InvBalD_ClassMod_Beastmaster_RedFang,ResolvedInventoryBalanceData=InventoryBalanceData'\"/Game/PatchDLC/Raid1/Gear/ClassMods/BeastMaster/InvBalD_ClassMod_Beastmaster_RedFang.InvBalD_ClassMod_Beastmaster_RedFang\"')),((InventoryBalanceData=/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Backburner/Balance/Balance_HW_VLA_ETech_BackBurner.Balance_HW_VLA_ETech_BackBurner,ResolvedInventoryBalanceData=InventoryBalanceData'\"/Game/PatchDLC/Mayhem2/Gear/Weapon/_Shared/_Unique/Backburner/Balance/Balance_HW_VLA_ETech_BackBurner.Balance_HW_VLA_ETech_BackBurner\"'),(InventoryBalanceData=/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Tizzy/Balance/Balance_PS_COV_Tizzy.Balance_PS_COV_Tizzy,ResolvedInventoryBalanceData=InventoryBalanceData'\"/Game/PatchDLC/Ixora/Gear/Weapons/_Unique/Tizzy/Balance/Balance_PS_COV_Tizzy.Balance_PS_COV_Tizzy\"'))"
-    },
-    
-    },
-    	
 	{
       "key": "SparkLevelPatchEntry1465",
       "value": "(1,1,1,Desolate_P),/Game/PatchDLC/SubmapPatch/Maps/Zone_4/Desolate/Desolate_SubmapPatch.Desolate_SubmapPatch:PersistentLevel.OakSpawner_1.SpawnerComponent,bEnabled,5,False,True"
